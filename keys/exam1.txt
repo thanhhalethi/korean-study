@@ -1,0 +1,899 @@
+35. (2점)
+Correct answer: ④ 피곤합니다 (I am tired)
+
+Complete sentence:
+저는 일이 많습니다. 그래서 조금 피곤합니다.
+I have a lot of work. So I'm a little tired.
+
+GRAMMAR
+1. N + 이/가 많다: to have a lot of something. 일이 많습니다 = I have a lot of work.
+2. 그래서: so/therefore; expresses cause and result.
+3. 조금 + adjective/verb: a little/slightly.
+4. A/V + ㅂ니다/습니다: formal polite ending.
+
+OTHER OPTIONS
+① 작습니다 → 작다 = To be small
+② 비쌉니다 → 비싸다 = To be expensive
+③ 무겁습니다 → 무겁다 = To be heavy
+④ 피곤합니다 → 피곤하다 = To be tired
+
+37. (3점)
+Correct answer: ③ 을 (object particle)
+
+COMPLETE SENTENCE
+방이 덥습니다. 창문을 엽니다.
+The room is hot. I open the window.
+
+EXPLANATION
+창문 is the object of 열다 (to open). Since 창문 ends in a consonant, use 을.
+
+GRAMMAR
+1. N + 을/를: Object particle. 창문을 엽니다 = I open the window.
+2. N + 이/가: Subject particle. 방이 덥습니다 = The room is hot.
+3. A/V + ㅂ니다/습니다: Formal polite ending. 열다 → 엽니다.
+4. ㅂ-irregular adjective: 덥다 → 더워요, 더웠어요, 덥습니다.
+
+VOCABULARY
+방 = room
+덥습니다 → 덥다 = to be hot
+창문 = window
+엽니다 → 열다 = to open
+열립니다 → 열리다 = to open/be opened
+닫다 = to close
+
+ANSWER OPTIONS (BASE FORMS)
+① 에 → 에 = at/to/in (location, destination, time)
+② 의 → 의 = of/possessive
+③ 을 → 을/를 = object particle (correct)
+④ 이 → 이/가 = subject particle
+
+38. (3점)
+CORRECT ANSWER
+① 줍니다 → 주다 = To give
+
+COMPLETE SENTENCE
+선물을 삽니다. 친구에게 줍니다.
+I buy a gift. I give it to my friend.
+
+GRAMMAR
+1. N + 에게: Recipient particle, to someone. 친구에게 줍니다 = I give it to my friend.
+2. N + 을/를: Object particle. 선물을 삽니다 = I buy a gift.
+3. V + ㅂ니다/습니다: Formal polite ending. 사다 → 삽니다, 주다 → 줍니다.
+4. Recipient에게 + Object을/를 + 주다: To give something to someone.
+
+VOCABULARY
+선물 = gift/present
+삽니다 → 사다 = to buy
+친구 = friend
+에게 = to someone
+줍니다 → 주다 = to give
+듣습니다 → 듣다 = to listen/hear
+다닙니다 → 다니다 = to attend/go regularly
+가르칩니다 → 가르치다 = to teach
+
+ANSWER OPTIONS
+① 줍니다 → 주다 = to give (correct)
+② 듣습니다 → 듣다 = to listen
+③ 다닙니다 → 다니다 = to attend/go regularly
+④ 가르칩니다 → 가르치다 = to teach
+
+USEFUL EXPRESSIONS
+선물을 주다 = to give a gift
+음악을 듣다 = to listen to music
+학교에 다니다 = to attend school
+한국어를 가르치다 = to teach Korean
+
+39. (2점)
+CORRECT ANSWER
+④ 기다립니다 → 기다리다 = To wait
+
+COMPLETE SENTENCE
+민수 씨하고 약속이 있습니다. 저는 민수 씨를 기다립니다.
+I have an appointment with Minsu. I am waiting for Minsu.
+
+GRAMMAR
+1. N + 하고: With/and. 민수 씨하고 = with Minsu.
+2. N + 이/가 있다: To have/there is. 약속이 있습니다 = I have an appointment.
+3. N + 을/를 기다리다: To wait for someone/something. 민수 씨를 기다립니다 = I wait for Minsu.
+4. V + ㅂ니다/습니다: Formal polite ending. 기다리다 → 기다립니다.
+
+VOCABULARY
+민수 = Minsu (name)
+씨 = Mr./Ms. (polite suffix)
+하고 = with/and
+약속 = appointment/promise
+있습니다 → 있다 = to have/exist
+저 = I (humble)
+내립니다 → 내리다 = to get off/descend/lower
+넣습니다 → 넣다 = to put in
+구경합니다 → 구경하다 = to look around/sightsee
+기다립니다 → 기다리다 = to wait
+
+ANSWER OPTIONS
+① 내립니다 → 내리다 = to get off/descend/lower
+② 넣습니다 → 넣다 = to put in
+③ 구경합니다 → 구경하다 = to look around/sightsee
+④ 기다립니다 → 기다리다 = to wait (correct)
+
+USEFUL EXPRESSIONS
+약속이 있다 = to have an appointment
+약속을 하다 = to make an appointment/promise
+친구를 기다리다 = to wait for a friend
+버스에서 내리다 = to get off a bus
+가방에 책을 넣다 = to put a book in a bag
+시장을 구경하다 = to look around a market
+
+43. (3점)
+CORRECT ANSWER
+④ 저는 은행에서 외국 사람을 많이 만납니다.
+I meet many foreigners at the bank.
+
+TRANSLATION
+저는 은행에서 일합니다.
+I work at a bank.
+은행에 외국인 손님이 많이 옵니다.
+Many foreign customers come to the bank.
+저는 그 손님들하고 영어로 이야기합니다.
+I speak with those customers in English.
+
+EXPLANATION
+The speaker works at a bank, many foreign customers visit, and the speaker speaks English with them. Therefore, option ④ matches the passage.
+
+GRAMMAR
+1. N + 에서: Location of an action. 은행에서 일합니다 = I work at a bank.
+2. N + 에: Destination. 은행에 옵니다 = Come to the bank.
+3. N + 하고: With/and. 손님들하고 = With customers.
+4. N + (으)로: Means/language. 영어로 이야기합니다 = Speak in English.
+5. V + (으)ㄹ 수 없다: Cannot do something. 영어를 할 수 없습니다 = I cannot speak English.
+6. V + 지 않다: Negation. 하지 않습니다 = Do not do.
+7. V + (으)려고 하다: Intend to/plan to. 일을 하려고 합니다 = I intend to work.
+
+VOCABULARY
+저 = I (humble)
+은행 = bank
+일합니다 → 일하다 = to work
+외국인 = foreigner
+손님 = customer/guest
+많이 = a lot/many
+옵니다 → 오다 = to come
+그 = that/those
+손님들 → 손님 = customers
+영어 = English
+이야기합니다 → 이야기하다 = to talk/converse
+요즘 = these days/recently
+하지 않습니다 → 하다 / 하지 않다 = to not do
+하려고 합니다 → 하다 / 하려고 하다 = to intend to do
+만납니다 → 만나다 = to meet
+외국 사람 = foreign person
+
+ANSWER OPTIONS
+① 저는 영어를 할 수 없습니다 → 영어를 하다 / -(으)ㄹ 수 없다 = I cannot speak English (false)
+② 저는 요즘 일을 하지 않습니다 → 일하다 / -지 않다 = I am not working these days (false)
+③ 저는 은행에서 일을 하려고 합니다 → 일하다 / -(으)려고 하다 = I intend to work at a bank (false)
+④ 저는 은행에서 외국 사람을 많이 만납니다 → 만나다 = I meet many foreigners at the bank (correct)
+
+USEFUL EXPRESSIONS
+은행에서 일하다 = to work at a bank
+외국인 손님 = foreign customer
+영어로 이야기하다 = to speak in English
+사람을 만나다 = to meet a person
+일을 하려고 하다 = to intend to work
+
+44. (2점)
+CORRECT ANSWER
+① 이 비누에 레몬이 들어갔습니다.
+Lemon was added to this soap / This soap contains lemon.
+
+TRANSLATION
+오늘 집에서 비누를 만들었습니다.
+Today, I made soap at home.
+비누에 레몬을 넣었습니다.
+I put lemon into the soap.
+이 비누로 손을 씻었는데 냄새가 좋았습니다.
+I washed my hands with this soap, and it smelled nice.
+
+EXPLANATION
+The speaker explicitly says they put lemon into the soap. Therefore, option ① matches the passage.
+
+GRAMMAR
+1. N + 에서: Location of an action. 집에서 만들었습니다 = Made at home.
+2. N + 에: Destination/location. 비누에 레몬을 넣었습니다 = Put lemon into soap.
+3. N + (으)로: Tool/means. 비누로 손을 씻었습니다 = Washed hands with soap.
+4. V/A + 았/었는데: Background/contrast. 씻었는데 냄새가 좋았습니다 = Washed hands, and it smelled nice.
+5. V + 았/었습니다: Formal past tense. 만들다 → 만들었습니다, 넣다 → 넣었습니다.
+6. V + 지 않다: Negation. 사용하지 않았습니다 = Did not use.
+
+VOCABULARY
+오늘 = today
+집 = home/house
+비누 = soap
+만들었습니다 → 만들다 = to make
+레몬 = lemon
+넣었습니다 → 넣다 = to put in
+이 = this
+손 = hand
+씻었는데 → 씻다 = to wash
+냄새 = smell/scent
+좋았습니다 → 좋다 = to be good/pleasant
+들어갔습니다 → 들어가다 = to go in/be included
+나지 않습니다 → 나다 / 나지 않다 = to not give off a smell
+샀습니다 → 사다 = to buy
+사용하지 않았습니다 → 사용하다 / 사용하지 않다 = to not use
+
+ANSWER OPTIONS
+① 이 비누에 레몬이 들어갔습니다 → 들어가다 = Lemon was added to this soap (correct)
+② 이 비누는 냄새가 나지 않습니다 → 냄새가 나다 / 나지 않다 = This soap has no smell (false)
+③ 저는 오늘 레몬 비누를 샀습니다 → 사다 = I bought lemon soap today (false)
+④ 저는 이 비누를 사용하지 않았습니다 → 사용하다 / 사용하지 않다 = I didn't use this soap (false)
+
+USEFUL EXPRESSIONS
+비누를 만들다 = to make soap
+레몬을 넣다 = to add lemon
+손을 씻다 = to wash one's hands
+냄새가 좋다 = to smell nice
+냄새가 나다 = to have/give off a smell
+비누를 사용하다 = to use soap
+
+45. (3점)
+CORRECT ANSWER
+③ 저는 부모님에게 과자를 받았습니다.
+I received snacks from my parents.
+
+TRANSLATION
+고향에 계신 부모님이 과자를 보내 주셨습니다.
+My parents, who are in my hometown, sent me some snacks.
+제가 좋아하는 고향 과자가 많이 있었습니다.
+There were lots of snacks from my hometown that I like.
+방 친구와 같이 과자를 먹었습니다.
+I ate the snacks together with my roommate.
+
+EXPLANATION
+The speaker's parents sent snacks from the hometown, so the speaker received snacks from their parents. Option ③ matches the passage.
+
+GRAMMAR
+1. V + (으)ㄴ: Noun modifier. 고향에 계신 부모님 = parents who are in my hometown. 계시다 is the honorific of 있다.
+2. V + 아/어 주다: Do something for someone. 보내 주셨습니다 → 보내 주다 = sent for someone, with honorific -시-.
+3. V + 는: Present noun modifier. 제가 좋아하는 과자 = snacks that I like.
+4. N + 와/과 같이: Together with. 방 친구와 같이 = with my roommate.
+5. N + 에게: To/from someone. 부모님에게 받았습니다 = received from my parents.
+6. V + 았/었습니다: Formal past tense. 먹다 → 먹었습니다; 받다 → 받았습니다.
+7. V/A + 지 않다: Negation. 좋아하지 않습니다 = do not like.
+
+VOCABULARY
+고향 = hometown
+계신 → 계시다 = to be/stay (honorific)
+부모님 = parents (honorific)
+과자 = snacks/cookies
+보내 주셨습니다 → 보내 주다 = to send for someone
+제가 → 저 = I (humble)
+좋아하는 → 좋아하다 = to like
+많이 = a lot/many
+있었습니다 → 있다 = to exist/there is
+방 친구 = roommate
+같이 = together
+먹었습니다 → 먹다 = to eat
+삽니다 → 살다 = to live
+혼자 = alone
+받았습니다 → 받다 = to receive
+좋아하지 않습니다 → 좋아하다 / 좋아하지 않다 = to not like
+
+ANSWER OPTIONS
+① 저는 부모님과 같이 삽니다 → 살다 = I live with my parents (false)
+② 저는 과자를 혼자 먹었습니다 → 먹다 = I ate the snacks alone (false)
+③ 저는 부모님에게 과자를 받았습니다 → 받다 = I received snacks from my parents (correct)
+④ 저는 고향의 과자를 좋아하지 않습니다 → 좋아하다 / 좋아하지 않다 = I don't like snacks from my hometown (false)
+
+USEFUL EXPRESSIONS
+고향에 계시다 = to be in one's hometown (honorific)
+과자를 보내 주다 = to send someone snacks
+선물을 받다 = to receive a gift
+방 친구와 같이 살다 = to live with a roommate
+혼자 먹다 = to eat alone
+고향 음식을 좋아하다 = to like food from one's hometown
+
+46. (3점)
+CORRECT ANSWER
+② 저는 춤을 배우는 것이 즐겁습니다.
+I enjoy learning to dance.
+
+TRANSLATION
+요즘 춤을 배우고 있습니다.
+These days, I am learning to dance.
+춤을 추는 것이 아주 재미있습니다.
+Dancing is very fun.
+그래서 매일 춤 연습을 합니다.
+So I practice dancing every day.
+
+EXPLANATION
+The speaker is learning to dance, finds dancing very fun, and practices every day. Option ② matches the passage.
+
+GRAMMAR
+1. V + 고 있다: Present progressive. 배우고 있습니다 → 배우다 = I am learning.
+2. V + 는 것: Nominalization. 춤을 추는 것 → 추다 = Dancing.
+3. 그래서: So/therefore. Expresses cause and result.
+4. V + (으)ㄹ 시간: Time to do something. 춤을 출 시간 → 추다 = Time to dance.
+5. V + 고 싶다: Want to do something. 하고 싶습니다 → 하다 = Want to do.
+6. V + 았/었습니다: Formal past tense. 배웠습니다 → 배우다 = Learned.
+
+VOCABULARY
+요즘 = these days/recently
+춤 = dance
+배우고 있습니다 → 배우다 = to learn
+추는 → 추다 = to dance
+것 = thing/act
+아주 = very
+재미있습니다 → 재미있다 = to be fun/interesting
+그래서 = so/therefore
+매일 = every day
+연습 = practice
+합니다 → 하다 = to do
+오래 = for a long time
+배웠습니다 → 배우다 = learned
+즐겁습니다 → 즐겁다 = to be enjoyable
+출 → 추다 = to dance
+시간 = time
+없습니다 → 없다 = to not have/not exist
+친구 = friend
+하고 싶습니다 → 하다 / 하고 싶다 = to want to do
+
+ANSWER OPTIONS
+① 저는 춤을 오래 배웠습니다 → 배우다 = I learned dancing for a long time (not supported)
+② 저는 춤을 배우는 것이 즐겁습니다 → 배우다 / 즐겁다 = I enjoy learning to dance (correct)
+③ 저는 요즘 춤을 출 시간이 없습니다 → 추다 / 없다 = I don't have time to dance these days (false)
+④ 저는 친구와 춤 연습을 하고 싶습니다 → 연습하다 / -고 싶다 = I want to practice dancing with a friend (not supported)
+
+USEFUL EXPRESSIONS
+춤을 추다 = to dance
+춤을 배우다 = to learn dancing
+춤 연습을 하다 = to practice dancing
+춤을 추는 것이 재미있다 = dancing is fun
+시간이 없다 = to not have time
+연습하고 싶다 = to want to practice
+
+47. (3점)
+CORRECT ANSWER
+④ 저는 이번 주말에 테니스를 치고 싶습니다.
+I want to play tennis this weekend.
+
+TRANSLATION
+저는 주말마다 테니스를 칩니다.
+I play tennis every weekend.
+지난주에는 비가 와서 테니스를 못 쳤습니다.
+Last week, I couldn't play tennis because it rained.
+이번 주는 비가 안 오면 좋겠습니다.
+I hope it doesn't rain this week.
+
+EXPLANATION
+The speaker normally plays tennis every weekend but couldn't play last week because it rained. They hope it won't rain this week, implying they want to play tennis this weekend.
+
+GRAMMAR
+1. N + 마다: Every/each. 주말마다 = every weekend.
+2. V/A + 아/어서: Because/so. 비가 와서 = because it rained.
+3. 못 + V: Cannot/unable to. 못 쳤습니다 → 치다 = couldn't play.
+4. V/A + (으)면 좋겠다: Hope/wish. 비가 안 오면 좋겠습니다 = I hope it doesn't rain.
+5. V + 고 싶다: Want to. 치고 싶습니다 → 치다 = want to play.
+6. V + (으)려고 하다: Intend to. 배우려고 합니다 → 배우다 = intend to learn.
+7. V + 는 것: Verb nominalization. 테니스 보는 것 → 보다 = watching tennis.
+8. V + 았/었습니다: Formal past tense. 쳤습니다 → 치다 = played.
+
+VOCABULARY
+저 = I (humble)
+주말마다 → 주말 + 마다 = every weekend
+테니스 = tennis
+칩니다 → 치다 = to play (tennis)
+지난주 = last week
+비 = rain
+와서 → 오다 = because it came/rained
+못 쳤습니다 → 치다 / 못 치다 = couldn't play
+이번 주 = this week
+안 오면 → 오다 / 안 오다 = if it doesn't rain
+좋겠습니다 → 좋다 / 좋겠다 = would be nice/hope
+배우려고 합니다 → 배우다 = intend to learn
+보는 → 보다 = to watch
+좋아합니다 → 좋아하다 = to like
+잘 = well
+치면 → 치다 = if (someone) plays
+치고 싶습니다 → 치다 / 치고 싶다 = want to play
+
+ANSWER OPTIONS
+① 저는 테니스를 배우려고 합니다 → 배우다 / -(으)려고 하다 = I intend to learn tennis (not supported)
+② 저는 테니스 보는 것을 좋아합니다 → 보다 / 좋아하다 = I like watching tennis (not supported)
+③ 저는 테니스를 잘 치면 좋겠습니다 → 치다 / -(으)면 좋겠다 = I wish I could play tennis well (not supported)
+④ 저는 이번 주말에 테니스를 치고 싶습니다 → 치다 / -고 싶다 = I want to play tennis this weekend (correct)
+
+USEFUL EXPRESSIONS
+테니스를 치다 = to play tennis
+비가 오다 = to rain
+비가 안 오다 = to not rain
+주말마다 = every weekend
+시간이 없어서 못 하다 = to be unable to do something because of lack of time
+날씨가 좋으면 좋겠다 = I hope the weather is nice
+
+48. (2점)
+CORRECT ANSWER
+③ 저는 이 운동화가 마음에 듭니다.
+I like these sneakers / I'm pleased with these sneakers.
+
+TRANSLATION
+얼마 전에 운동화를 샀습니다.
+I bought a pair of sneakers a little while ago.
+이 운동화는 가볍고 아주 편합니다.
+These sneakers are lightweight and very comfortable.
+저는 매일 이 운동화를 신고 다닙니다.
+I wear these sneakers every day when I go out.
+
+EXPLANATION
+The speaker recently bought sneakers, finds them lightweight and comfortable, and wears them every day. Therefore, option ③ matches the passage.
+
+GRAMMAR
+1. V/A + 고: Connects actions/descriptions. 가볍고 편합니다 = Lightweight and comfortable.
+2. V + 고 다니다: To go around doing something. 신고 다닙니다 → 신다 / 다니다 = Wear sneakers regularly.
+3. V + (으)려고 하다: Intend to. 사려고 합니다 → 사다 = Intend to buy.
+4. V + (으)ㄹ 것이다: Future. 선물할 겁니다 → 선물하다 = Will give as a gift.
+5. N + 이/가 마음에 들다: To like/be pleased with. 운동화가 마음에 듭니다 = I like these sneakers.
+6. V/A + (으)면 좋겠다: Wish/hope. 많으면 좋겠습니다 → 많다 = I wish I had many.
+7. V + 았/었습니다: Formal past tense. 샀습니다 → 사다 = Bought.
+
+VOCABULARY
+얼마 전에 → 얼마 전 = a little while ago/recently
+운동화 = sneakers/athletic shoes
+샀습니다 → 사다 = to buy
+이 = this/these
+가볍고 → 가볍다 = to be light (weight)
+아주 = very
+편합니다 → 편하다 = to be comfortable
+매일 = every day
+신고 → 신다 = to wear shoes/socks
+다닙니다 → 다니다 = to go around/go regularly
+사려고 합니다 → 사다 = intend to buy
+선물할 겁니다 → 선물하다 = will give as a gift
+마음에 듭니다 → 마음에 들다 = to like/be pleased with
+많으면 → 많다 = if there are many
+좋겠습니다 → 좋다 / 좋겠다 = would be nice/wish
+
+ANSWER OPTIONS
+① 저는 운동화를 사려고 합니다 → 사다 / -(으)려고 하다 = I intend to buy sneakers (false)
+② 저는 이 운동화를 선물할 겁니다 → 선물하다 / -(으)ㄹ 것이다 = I will give these sneakers as a gift (not supported)
+③ 저는 이 운동화가 마음에 듭니다 → 마음에 들다 = I like these sneakers (correct)
+④ 저는 운동화가 많으면 좋겠습니다 → 많다 / -(으)면 좋겠다 = I wish I had many pairs of sneakers (not supported)
+
+USEFUL EXPRESSIONS
+운동화를 사다 = to buy sneakers
+운동화를 신다 = to wear sneakers
+신발이 편하다 = shoes are comfortable
+가볍고 편하다 = to be lightweight and comfortable
+마음에 들다 = to like/be pleased with
+얼마 전에 = a little while ago
+
+[49~50] 다음을 읽고 물음에 답하십시오.
+
+49. ㉠에 들어갈 말로 가장 알맞은 것을 고르십시오.
+
+CORRECT ANSWER
+④ 잘랐지만
+처음에는 잘 못 잘랐지만 나중에는 잘 자르게 되었습니다.
+At first I couldn't cut well, but later I became good at cutting.
+
+TRANSLATION
+우리 가족은 오랫동안 외국에 살았습니다.
+My family lived abroad for a long time.
+그곳의 미용실은 가격이 비쌌습니다.
+The hair salons there were expensive.
+그래서 우리 가족은 미용실에 가지 않았습니다.
+So my family didn't go to hair salons.
+남편과 아이의 머리는 제가 잘라 주었습니다.
+I cut my husband's and my child's hair for them.
+처음에는 잘 못 잘랐지만 나중에는 잘 자르게 되었습니다.
+At first I couldn't cut well, but later I became good at it.
+지금 우리 가족은 한국에서 살고 있습니다.
+Now my family is living in Korea.
+저는 요즘도 가족들의 머리를 잘라 줍니다.
+These days I still cut my family's hair.
+
+EXPLANATION
+The two parts of the sentence show a contrast: "couldn't cut well at first" and "cut well later." To connect opposite ideas, you need 지만 (but). Therefore, option ④ is correct.
+
+GRAMMAR
+1. V/A + 지만: But (contrast). 잘랐지만 → 자르다 = Cut, but...
+2. 못 + V: Can't do. 잘 못 자르다 = Can't cut well.
+3. V + 게 되다: Come to do / end up doing. 자르게 되었습니다 → 자르다 = Became able to cut.
+4. V + 아/어 주다: Do something for someone. 잘라 주었습니다 → 자르다 = Cut (hair) for them.
+5. V + 지 않다: Not. 가지 않았습니다 → 가다 = Didn't go.
+6. V + 고 있다: Be doing (progressive). 살고 있습니다 → 살다 = Are living.
+7. V/A + 았/었습니다: Formal past tense. 비쌌습니다 → 비싸다 = Was expensive.
+Tip: 자르다 is a 르 irregular. 자르 + 았 becomes 잘랐.
+
+VOCABULARY
+가족 = family
+오랫동안 = for a long time
+외국 = foreign country
+살았습니다 → 살다 = to live
+그곳 = that place, there
+미용실 = hair salon
+가격 = price
+비쌌습니다 → 비싸다 = to be expensive
+그래서 = so, therefore
+남편 = husband
+아이 = child
+머리 = hair, head
+잘라 주었습니다 → 자르다 = to cut
+처음에는 → 처음 = at first
+나중에는 → 나중 = later
+지금 = now
+요즘도 → 요즘 = these days (also/still)
+
+ANSWER OPTIONS
+① 자르면 → 자르다 / (으)면 = If (I) cut (wrong, no condition here)
+② 자르니까 → 자르다 / (으)니까 = Because (I) cut (wrong, no reason here)
+③ 잘랐거나 → 자르다 / 거나 = Cut or... (wrong, no choice here)
+④ 잘랐지만 → 자르다 / 지만 = Cut, but... (correct, shows contrast)
+
+USEFUL EXPRESSIONS
+머리를 자르다 = to cut hair, to get a haircut
+미용실에 가다 = to go to a hair salon
+가격이 비싸다 = the price is expensive
+외국에 살다 = to live abroad
+잘 못하다 = to not do well
+잘하게 되다 = to become good at
+
+50. 윗글의 내용과 같은 것을 고르십시오.
+
+EXPLANATION
+The family lived abroad for a long time, and now they live in Korea. This means they came back to Korea. Therefore, option ① matches the passage.
+
+GRAMMAR
+1. V/A + 았/었습니다: Formal past tense. 돌아왔습니다 → 돌아오다 = Came back.
+2. V + 고 있다: Be doing (progressive). 살고 있습니다 → 살다 = Are living.
+3. V + 아/어 주다: Do something for someone. 잘라 주지 않습니다 → 자르다 = Don't cut (hair) for them.
+4. V + 지 않다: Not. 가지 않았습니다 → 가다 = Didn't go.
+5. N + 도: Also, still. 요즘도 = Still these days.
+
+VOCABULARY
+가족 = family
+오랫동안 = for a long time
+외국 = foreign country
+살다 = to live
+미용실 = hair salon
+가격 = price
+비싸다 = to be expensive
+싸다 = to be cheap
+돌아왔습니다 → 돌아오다 = to come back, to return
+요즘 = these days
+자주 = often
+아이 = child
+머리 = hair, head
+자르다 = to cut
+
+ANSWER OPTIONS
+① 우리 가족은 한국에 돌아왔습니다 → 돌아오다 = My family came back to Korea (correct)
+② 외국의 미용실은 가격이 쌌습니다 → 싸다 = Salons abroad were cheap (false, they were expensive)
+③ 요즘은 아이의 머리를 잘라 주지 않습니다 → 자르다 / 지 않다 = These days I don't cut my child's hair (false, she still does)
+④ 우리 가족은 외국에서 미용실에 자주 갔습니다 → 가다 / 자주 = We often went to salons abroad (false, they didn't go)
+
+USEFUL EXPRESSIONS
+한국에 돌아오다 = to come back to Korea
+가격이 싸다 = the price is cheap
+가격이 비싸다 = the price is expensive
+미용실에 자주 가다 = to go to the hair salon often
+머리를 잘라 주다 = to cut someone's hair (for them)
+오랫동안 살다 = to live for a long time
+
+[51~52] 다음을 읽고 물음에 답하십시오.
+
+51. ㉠에 들어갈 말로 가장 알맞은 것을 고르십시오. (3점)
+
+CORRECT ANSWER
+① 그리고
+그리고 이 축제에서 한국의 유명한 떡볶이를 모두 먹어 볼 수 있습니다.
+And at this festival, you can try all of Korea's famous tteokbokki.
+
+TRANSLATION
+인주시에서는 매년 가을에 떡볶이 축제를 합니다.
+Inju City holds a tteokbokki festival every autumn.
+이 축제에서는 '매운 떡볶이 먹기 대회'가 열리는데 축제에 온 사람은 누구나 이 대회에 참가할 수 있습니다.
+A "spicy tteokbokki eating contest" is held at this festival, and anyone who comes to the festival can join the contest.
+그리고 이 축제에서 한국의 유명한 떡볶이를 모두 먹어 볼 수 있습니다.
+And at this festival, you can try all of Korea's famous tteokbokki.
+떡볶이 재료를 싸게 살 수도 있고 공연도 볼 수 있어서 이 축제를 찾는 사람이 많습니다.
+You can also buy tteokbokki ingredients cheaply and watch performances, so many people visit this festival.
+
+EXPLANATION
+The sentence before ㉠ describes one fun thing to do at the festival (the eating contest). The sentence after ㉠ adds another fun thing (trying famous tteokbokki). When you add similar information, you use 그리고 (and). Therefore, option ① is correct.
+
+GRAMMAR
+1. V/A + 는데: Gives background before the main point. 열리는데 → 열리다 = Is held, and...
+2. V + (으)ㄹ 수 있다: Can. 참가할 수 있습니다 → 참가하다 = Can participate.
+3. V + 아/어 보다: Try doing. 먹어 볼 수 있습니다 → 먹다 = Can try eating.
+4. V + (으)ㄹ 수도 있다: Can also. 살 수도 있고 → 사다 = Can also buy.
+5. V/A + 아/어서: Because, so. 볼 수 있어서 → 있다 = Because you can see...
+6. V + 기: Turns a verb into a noun. 먹기 대회 → 먹다 = Eating contest.
+7. A + 게: Turns an adjective into an adverb. 싸게 → 싸다 = Cheaply.
+8. Modifiers: 매운 → 맵다 (spicy), 유명한 → 유명하다 (famous), 온 → 오다 (who came), 찾는 → 찾다 (who visit).
+Tip: 맵다 is a ㅂ irregular. 맵 + 은 becomes 매운.
+
+VOCABULARY
+인주시 = Inju City (a made up city name used in TOPIK)
+매년 = every year
+가을 = autumn, fall
+떡볶이 = tteokbokki (spicy rice cakes)
+축제 = festival
+매운 → 맵다 = to be spicy
+대회 = contest, competition
+열리는데 → 열리다 = to be held, to open
+누구나 = anyone
+참가할 → 참가하다 = to participate, to join
+유명한 → 유명하다 = to be famous
+모두 = all
+재료 = ingredients
+싸게 → 싸다 = cheaply / to be cheap
+공연 = performance, show
+찾는 → 찾다 = to visit, to look for
+많습니다 → 많다 = to be many
+
+ANSWER OPTIONS
+① 그리고 = And (correct, adds more information)
+② 그래도 = Even so, still (wrong, no contrast)
+③ 그렇지만 = But, however (wrong, no contrast)
+④ 왜냐하면 = Because (wrong, no reason given, and it needs 기 때문이다 at the end)
+
+USEFUL EXPRESSIONS
+축제가 열리다 = a festival is held
+대회에 참가하다 = to join a contest
+떡볶이를 먹어 보다 = to try tteokbokki
+싸게 사다 = to buy cheaply
+공연을 보다 = to watch a performance
+누구나 할 수 있다 = anyone can do it
+매년 가을에 = every autumn
+
+[53~54] 다음을 읽고 물음에 답하십시오.
+
+53. ㉠에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)
+
+CORRECT ANSWER
+④ 퇴근한 후에
+저는 퇴근한 후에 그 친구의 전시회에 갔다 왔습니다.
+After I got off work, I went to my friend's exhibition.
+
+TRANSLATION
+제 친구는 회사원인데 그림을 잘 그립니다.
+My friend is an office worker, but is good at painting.
+오늘 친구가 첫 번째 전시회를 열었습니다.
+Today my friend held their first exhibition.
+저는 퇴근한 후에 그 친구의 전시회에 갔다 왔습니다.
+After I got off work, I went to my friend's exhibition.
+전시회에는 꽃 그림이 많았습니다.
+There were many flower paintings at the exhibition.
+저는 장미꽃 그림을 하나 샀습니다.
+I bought one rose painting.
+오늘 이 그림을 제 방에 걸었습니다.
+Today I hung this painting in my room.
+
+EXPLANATION
+The blank shows when the speaker went to the exhibition. It makes sense that the speaker went after finishing work, so you need a time order expression: (으)ㄴ 후에 (after). Therefore, option ④ is correct.
+
+GRAMMAR
+1. V + (으)ㄴ 후에: After doing. 퇴근한 후에 → 퇴근하다 = After getting off work.
+2. V + 았/었다 오다: Go somewhere and come back. 갔다 왔습니다 → 가다 / 오다 = Went and came back.
+3. N + 인데: Gives background or contrast. 회사원인데 → 회사원이다 = Is an office worker, but...
+4. 첫 번째: First (번째 = ordinal counter). 두 번째 = second.
+5. N + 에는: At/in (with topic emphasis). 전시회에는 = At the exhibition.
+6. V/A + 았/었습니다: Formal past tense. 걸었습니다 → 걸다 = Hung.
+
+VOCABULARY
+제 = my (polite)
+회사원 = office worker
+그림 = picture, painting
+그립니다 → 그리다 = to draw, to paint
+첫 번째 = first
+전시회 = exhibition
+열었습니다 → 열다 = to open, to hold (an event)
+퇴근한 → 퇴근하다 = to get off work
+갔다 왔습니다 → 갔다 오다 = to go and come back
+꽃 = flower
+장미꽃 = rose
+하나 = one
+샀습니다 → 사다 = to buy
+방 = room
+걸었습니다 → 걸다 = to hang
+
+ANSWER OPTIONS
+① 퇴근하러 → 퇴근하다 / (으)러 = In order to get off work (wrong, purpose doesn't fit)
+② 퇴근한 지 → 퇴근하다 / (으)ㄴ 지 = Since getting off work (wrong, needs a time length like 한 시간이 되었습니다)
+③ 퇴근하려면 → 퇴근하다 / (으)려면 = If you intend to get off work (wrong, condition doesn't fit)
+④ 퇴근한 후에 → 퇴근하다 / (으)ㄴ 후에 = After getting off work (correct)
+
+USEFUL EXPRESSIONS
+퇴근한 후에 = after getting off work
+그림을 그리다 = to draw, to paint
+그림을 잘 그리다 = to be good at drawing
+전시회를 열다 = to hold an exhibition
+전시회에 가다 = to go to an exhibition
+그림을 걸다 = to hang a picture
+갔다 오다 = to go and come back
+
+54. 윗글의 내용과 같은 것을 고르십시오. (3점)
+
+CORRECT ANSWER
+② 저는 친구의 그림을 하나 샀습니다.
+I bought one of my friend's paintings.
+
+TRANSLATION
+제 친구는 회사원인데 그림을 잘 그립니다.
+My friend is an office worker, but is good at painting.
+오늘 친구가 첫 번째 전시회를 열었습니다.
+Today my friend held their first exhibition.
+저는 퇴근한 후에 그 친구의 전시회에 갔다 왔습니다.
+After I got off work, I went to my friend's exhibition.
+전시회에는 꽃 그림이 많았습니다.
+There were many flower paintings at the exhibition.
+저는 장미꽃 그림을 하나 샀습니다.
+I bought one rose painting.
+오늘 이 그림을 제 방에 걸었습니다.
+Today I hung this painting in my room.
+
+EXPLANATION
+The speaker went to the friend's exhibition and bought one rose painting there. Therefore, option ② matches the passage.
+
+GRAMMAR
+1. N + 이/가 N이다: Describes what something is. 직업이 화가입니다 = (Their) job is painter.
+2. N + 번: Counts times. 여러 번 = Many times.
+3. V + 아/어 가다: Take something somewhere. 가져갔습니다 → 가져가다 = Took (it) to.
+4. N + 의: Possessive ('s). 친구의 그림 = Friend's painting.
+5. V/A + 았/었습니다: Formal past tense. 샀습니다 → 사다 = Bought.
+
+VOCABULARY
+직업 = job, occupation
+화가 = painter, artist
+회사원 = office worker
+그림 = painting
+하나 = one
+샀습니다 → 사다 = to buy
+전시회 = exhibition
+여러 번 = many times
+첫 번째 = first
+장미꽃 = rose
+회사 = company, office
+가져갔습니다 → 가져가다 = to take (something somewhere)
+방 = room
+걸다 = to hang
+
+ANSWER OPTIONS
+① 제 친구는 직업이 화가입니다 → 화가 = My friend's job is painter (false, the friend is an office worker)
+② 저는 친구의 그림을 하나 샀습니다 → 사다 = I bought one of my friend's paintings (correct)
+③ 제 친구는 전시회를 여러 번 했습니다 → 여러 번 = My friend held exhibitions many times (false, it was the first one)
+④ 저는 장미꽃 그림을 회사에 가져갔습니다 → 가져가다 = I took the rose painting to work (false, it was hung in my room)
+
+USEFUL EXPRESSIONS
+직업이 뭐예요? = What is your job?
+그림을 사다 = to buy a painting
+여러 번 하다 = to do many times
+회사에 가져가다 = to take to the office
+방에 걸다 = to hang in a room
+첫 번째 전시회 = first exhibition
+
+[55~56] 다음을 읽고 물음에 답하십시오.
+
+55. ㉠에 들어갈 말로 가장 알맞은 것을 고르십시오. (2점)
+
+CORRECT ANSWER
+③ 많기 때문입니다
+다른 곳에서 팔지 않는 옷이 많기 때문입니다.
+It's because there are many clothes that aren't sold anywhere else.
+
+TRANSLATION
+인주시에는 유명한 '옷 거리'가 있습니다.
+There is a famous "clothing street" in Inju City.
+이곳은 가게마다 다른 종류의 옷을 팔아서 구경하는 재미가 있습니다.
+Each store here sells a different kind of clothing, so it's fun to look around.
+여러 가게 중에서 인기가 많은 가게는 예전에 유행한 옷을 파는 가게와 특별한 디자인의 청바지를 파는 가게입니다.
+Among the many stores, the popular ones are a store that sells clothes that were in fashion in the past and a store that sells jeans with special designs.
+다른 곳에서 팔지 않는 옷이 많기 때문입니다.
+It's because there are many clothes that aren't sold anywhere else.
+그래서 자기만의 특별한 옷을 사고 싶어 하는 사람들이 많이 찾아옵니다.
+So many people who want to buy their own special clothes come to visit.
+
+EXPLANATION
+The sentence before ㉠ says which stores are popular. The ㉠ sentence explains why they are popular: they sell clothes you can't find anywhere else. To give a reason, you use 기 때문이다 (it's because). Therefore, option ③ is correct.
+
+GRAMMAR
+1. V/A + 기 때문이다: It's because. 많기 때문입니다 → 많다 = It's because there are many.
+2. N + 마다: Every, each. 가게마다 = Each store.
+3. V/A + 아/어서: Because, so. 팔아서 → 팔다 = Sell, so...
+4. V + 는 재미가 있다: It's fun to do. 구경하는 재미가 있습니다 → 구경하다 = It's fun to look around.
+5. N + 중에서: Among. 여러 가게 중에서 = Among many stores.
+6. V + (으)ㄴ + N: Past modifier. 유행한 옷 → 유행하다 = Clothes that were in fashion.
+7. V + 고 싶어 하다: (Someone else) wants to. 사고 싶어 하는 → 사다 = Who want to buy.
+8. N + 만의: One's own. 자기만의 = One's very own.
+Tip: 팔다 is a ㄹ verb. ㄹ drops before ㄴ, so 팔 + 는 becomes 파는.
+
+VOCABULARY
+유명한 → 유명하다 = to be famous
+옷 = clothes
+거리 = street
+이곳 = this place, here
+가게 = store, shop
+다른 → 다르다 = to be different / other
+종류 = kind, type
+팔아서 → 팔다 = to sell
+구경하는 → 구경하다 = to look around, to browse
+재미 = fun
+여러 = many, several
+인기가 많은 → 인기가 많다 = to be popular
+예전에 → 예전 = in the past
+유행한 → 유행하다 = to be in fashion, to be trendy
+특별한 → 특별하다 = to be special
+디자인 = design
+청바지 = jeans
+자기만의 → 자기 = oneself / one's own
+찾아옵니다 → 찾아오다 = to come to visit
+
+ANSWER OPTIONS
+① 많아도 됩니다 → 많다 / 아/어도 되다 = It's okay to have many (wrong, permission doesn't fit)
+② 많아야 합니다 → 많다 / 아/어야 하다 = There must be many (wrong, obligation doesn't fit)
+③ 많기 때문입니다 → 많다 / 기 때문이다 = It's because there are many (correct, gives the reason)
+④ 많은 적이 있습니다 → 많다 / (으)ㄴ 적이 있다 = There was a time there were many (wrong, past experience doesn't fit)
+
+USEFUL EXPRESSIONS
+인기가 많다 = to be popular
+옷을 팔다 = to sell clothes
+옷을 구경하다 = to look around at clothes
+구경하는 재미가 있다 = it's fun to look around
+가게마다 다르다 = each store is different
+유행하는 옷 = trendy clothes
+자기만의 스타일 = one's own style
+
+56. 윗글의 내용과 같은 것을 고르십시오. (3점)
+
+CORRECT ANSWER
+② 이 거리에서 예전에 유행한 옷을 살 수 있습니다.
+You can buy clothes that were in fashion in the past on this street.
+
+TRANSLATION
+인주시에는 유명한 '옷 거리'가 있습니다.
+There is a famous "clothing street" in Inju City.
+이곳은 가게마다 다른 종류의 옷을 팔아서 구경하는 재미가 있습니다.
+Each store here sells a different kind of clothing, so it's fun to look around.
+여러 가게 중에서 인기가 많은 가게는 예전에 유행한 옷을 파는 가게와 특별한 디자인의 청바지를 파는 가게입니다.
+Among the many stores, the popular ones are a store that sells clothes that were in fashion in the past and a store that sells jeans with special designs.
+다른 곳에서 팔지 않는 옷이 많기 때문입니다.
+It's because there are many clothes that aren't sold anywhere else.
+그래서 자기만의 특별한 옷을 사고 싶어 하는 사람들이 많이 찾아옵니다.
+So many people who want to buy their own special clothes come to visit.
+
+EXPLANATION
+The passage says one of the popular stores sells clothes that were in fashion in the past. So you can buy those clothes on this street. Therefore, option ② matches the passage.
+
+GRAMMAR
+1. V + (으)ㄹ 수 있다: Can. 살 수 있습니다 → 사다 = Can buy.
+2. V + 지 않다: Not. 생기지 않았습니다 → 생기다 = Didn't open/appear.
+3. V + 아/어 있다: State after an action is done. 모여 있습니다 → 모이다 = Are gathered.
+4. N + 에게: To (a person). 사람들에게 = To people.
+5. 알려지다: To be known (passive form of 알리다). 알려지지 않았습니다 = Isn't known.
+
+VOCABULARY
+거리 = street
+청바지 = jeans
+가게 = store, shop
+생기지 → 생기다 = to open, to appear, to be created
+예전에 → 예전 = in the past
+유행한 → 유행하다 = to be in fashion
+살 수 있습니다 → 사다 = can buy
+알려지지 → 알려지다 = to be known
+같은 → 같다 = to be the same
+종류 = kind, type
+모여 있습니다 → 모이다 = to gather, to be gathered
+
+ANSWER OPTIONS
+① 이 거리에 청바지 가게가 생기지 않았습니다 → 생기다 = No jeans store opened on this street (false, there is a popular jeans store)
+② 이 거리에서 예전에 유행한 옷을 살 수 있습니다 → 사다 / (으)ㄹ 수 있다 = You can buy clothes that were trendy in the past (correct)
+③ 이 거리는 사람들에게 많이 알려지지 않았습니다 → 알려지다 = This street isn't well known (false, it's famous)
+④ 이 거리에 같은 종류의 옷을 파는 가게들이 모여 있습니다 → 모이다 / 아/어 있다 = Stores selling the same kind of clothes are gathered here (false, each store sells different kinds)
+
+USEFUL EXPRESSIONS
+가게가 생기다 = a store opens
+많이 알려지다 = to be well known
+유명한 거리 = a famous street
+같은 종류 = the same kind
+다른 종류 = a different kind
+한곳에 모여 있다 = to be gathered in one place
+
