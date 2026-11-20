@@ -897,3 +897,125 @@ USEFUL EXPRESSIONS
 다른 종류 = a different kind
 한곳에 모여 있다 = to be gathered in one place
 
+57. (3점)
+
+CORRECT ANSWER
+② (가) → (라) → (다) → (나)
+
+TRANSLATION (correct order)
+(가) 저는 친구들과 함께 방송국을 구경하러 갔습니다.
+I went to look around a broadcasting station with my friends.
+(라) 우리는 방송국 일 층에서 안내 직원을 기다리고 있었습니다.
+We were waiting for a guide on the first floor of the station.
+(다) 그때 제가 좋아하는 배우가 저쪽으로 지나갔습니다.
+At that moment, an actor I like walked past over there.
+(나) 저는 뛰어가서 그 배우와 함께 사진을 찍었습니다.
+I ran over and took a picture with that actor.
+
+EXPLANATION
+(가) starts the story by saying where the speaker went and why. (라) describes what they were doing there. (다) begins with 그때 (at that moment), so it must follow an earlier scene. (나) mentions 그 배우 (that actor), so it must come after the actor appears in (다). Therefore, option ② is correct.
+
+GRAMMAR
+1. V + (으)러 가다: Go in order to. 구경하러 갔습니다 → 구경하다 = Went to look around.
+2. V + 고 있었다: Was doing. 기다리고 있었습니다 → 기다리다 = Was waiting.
+3. V + 아/어서: And then (sequence). 뛰어가서 → 뛰어가다 = Ran over and then...
+4. V + 는 + N: Present modifier. 제가 좋아하는 배우 → 좋아하다 = An actor I like.
+5. N + 와/과 함께: Together with. 친구들과 함께 = With my friends.
+6. N + (으)로: Toward (direction). 저쪽으로 = Toward over there.
+7. V + 아/어 가다: Movement away. 뛰어가다 (run over), 지나가다 (pass by).
+
+VOCABULARY
+친구들 = friends
+함께 = together
+방송국 = broadcasting station, TV station
+구경하러 → 구경하다 = to look around, to sightsee
+뛰어가서 → 뛰어가다 = to run (over to)
+배우 = actor
+사진 = photo
+찍었습니다 → 찍다 = to take (a photo)
+그때 = at that time, at that moment
+좋아하는 → 좋아하다 = to like
+저쪽 = over there
+지나갔습니다 → 지나가다 = to pass by
+우리 = we
+일 층 = first floor
+안내 직원 = guide, information staff
+기다리고 → 기다리다 = to wait
+
+ANSWER OPTIONS
+① (가) → (나) → (다) → (라) = Wrong, (나) says "that actor" before any actor is mentioned
+② (가) → (라) → (다) → (나) = Correct, natural story order
+③ (라) → (가) → (나) → (다) = Wrong, waiting on the first floor can't come before going to the station
+④ (라) → (나) → (다) → (가) = Wrong, going to the station should be the start of the story
+
+USEFUL EXPRESSIONS
+사진을 찍다 = to take a photo
+같이 사진을 찍다 = to take a photo together
+방송국을 구경하다 = to look around a TV station
+제가 좋아하는 배우 = an actor I like
+옆으로 지나가다 = to walk past
+뛰어가다 = to run over
+일 층에서 기다리다 = to wait on the first floor
+
+58. (2점)
+
+CORRECT ANSWER
+③ (라) → (나) → (가) → (다)
+
+TRANSLATION (correct order)
+(라) 식사를 했는데도 금방 음식을 먹고 싶은 생각이 들 때가 있습니다.
+Sometimes, even after eating a meal, you soon feel like eating again.
+(나) 그럴 때는 정말 배가 고파서 그런 것인지 확인하는 게 좋습니다.
+At times like that, it's good to check whether it's because you're really hungry.
+(가) 그것을 확인하는 방법은 아주 간단합니다.
+The way to check that is very simple.
+(다) 싫어하는 음식을 생각해도 먹고 싶다면 정말 배가 고픈 것입니다.
+If you still want to eat even when you think of food you dislike, you're really hungry.
+
+EXPLANATION
+(라) introduces the topic: wanting to eat soon after a meal. (나) begins with 그럴 때 (at times like that), which refers back to (라). (가) begins with 그것 (that), which refers to "checking" in (나). (다) gives the actual method and the conclusion. Therefore, option ③ is correct.
+
+GRAMMAR
+1. V + 았/었는데도: Even though (did). 식사를 했는데도 → 하다 = Even though (I) ate.
+2. V + 고 싶은 생각이 들다: Feel like doing. 먹고 싶은 생각이 들다 → 먹다 = Feel like eating.
+3. V/A + (으)ㄹ 때: When. 들 때 → 들다, 그럴 때 → 그렇다 = When (it) happens / At times like that.
+4. V/A + (으)ㄴ/는 것인지 확인하다: Check whether. 그런 것인지 = Whether it's like that.
+5. V + 는 게 좋다: It's good to. 확인하는 게 좋습니다 → 확인하다 = It's good to check.
+6. V + 는 방법: The way to do. 확인하는 방법 → 확인하다 = The way to check.
+7. V/A + 아/어도: Even if. 생각해도 → 생각하다 = Even if you think of.
+8. V/A + 다면: If (supposing). 먹고 싶다면 → 먹고 싶다 = If you want to eat.
+9. V/A + (으)ㄴ 것이다: It means that / It is that. 배가 고픈 것입니다 → 배가 고프다 = (It means) you're hungry.
+Tip: 배가 고프다 is a ㅡ irregular. 고프 + 아서 becomes 고파서.
+
+VOCABULARY
+그것 = that, it
+확인하는 → 확인하다 = to check, to confirm
+방법 = method, way
+아주 = very
+간단합니다 → 간단하다 = to be simple
+그럴 때 → 그렇다 = at times like that
+정말 = really
+배가 고파서 → 배가 고프다 = to be hungry
+싫어하는 → 싫어하다 = to dislike
+음식 = food
+생각해도 → 생각하다 = to think
+식사 = meal
+식사를 했는데도 → 식사를 하다 = to have a meal
+금방 = soon, right away
+생각이 들 → 생각이 들다 = to have a thought, to feel like
+때 = time, when
+
+ANSWER OPTIONS
+① (다) → (가) → (나) → (라) = Wrong, (다) is the conclusion, not the start
+② (다) → (나) → (가) → (라) = Wrong, the topic in (라) must come first
+③ (라) → (나) → (가) → (다) = Correct, topic → advice → method → conclusion
+④ (라) → (다) → (가) → (나) = Wrong, (가) "that" needs (나) before it
+
+USEFUL EXPRESSIONS
+배가 고프다 = to be hungry
+배가 부르다 = to be full
+식사를 하다 = to have a meal
+먹고 싶은 생각이 들다 = to feel like eating
+확인하는 게 좋다 = it's good to check
+방법이 간단하다 = the method is simple
+싫어하는 음식 = food you dislike
